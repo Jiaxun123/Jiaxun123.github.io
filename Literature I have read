@@ -99,19 +99,9 @@
     <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </header>
       <section>
-      <p>I am a PhD student in Financial Economics</a> at the <a href="http://www.uibe.edu.cn/">University of International Business and Economics</a>. 
-      <p>My research primarily revolves around the potential implications and economic consequences on the investment behavior of mutual fund investors, the structure of fund families, and the management approach of portfolio managers. I usually employ Stata, Python, and R for conducting empirical analysis. 
-      <p>On this webpage, I will summarize some intriguing financial economics literature that I have read.
-      </section>
-    </div>
-    <script src="javascripts/scale.fix.js"></script>
-  </body>
-</html>
-
-      <section>
 
     <h2><a id="recent-RRs-updated" class="anchor" href="#RRpapers" aria-hidden="true"><span class="octicon octicon-link"></span></a>Mutual fund flows</h2>
-    <p style="margin:0"> <a style="margin:0; font-size:100%; font-weight:bold" href="https://tyleransom.github.io/research/CollegeDropout2024Jan31.pdf">College Attrition and the Dynamics of Information Revelation</a> <br> with <a href="http://public.econ.duke.edu/~psarcidi/">Peter Arcidiacono</a>, <a href="https://sites.google.com/site/estebanmaucejo/">Esteban Aucejo</a>, and <a href="http://www.amaurel.net/">Arnaud Maurel</a> <br> <b>2nd Round Revised &amp; Resubmitted, <i>Journal of Political Economy</i></b> (updated Jan 31, 2024) <br><button class="accordion">
+    <p style="margin:0"> 
       Abstract
     </button>
     <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"><p> We examine how informational frictions impact schooling and work outcomes. To do so, we estimate a dynamic structural model where individuals face uncertainty about their academic ability and productivity, which respectively determine their schooling utility and wages. Our framework accounts for heterogeneity in college types and majors, as well as occupational search frictions and work hours. Individuals learn from grades and wages in a correlated manner, and may change their choices as a result. Removing informational frictions would increase the college graduation rate by 4.4 percentage points, which would increase further by 2 percentage points in the absence of search frictions. Providing students with full information about their abilities would also result in large increases in the college and white-collar wage premia, while reducing the college graduation gap by family income. </p></div>
