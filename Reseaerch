@@ -1,0 +1,145 @@
+.<!doctype html>
+<html lang="en">
+  <head>
+  <script src="https://use.fontawesome.com/baff6f55f5.js"></script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Jiaxun Song</title>
+
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/github-light.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-29643011-3', 'auto');
+      ga('send', 'pageview');
+    </script>
+
+    <!-- New GA4 tracking code, see https://support.google.com/analytics/answer/10271001#analyticsjs-enable-basic --> 
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-GNJD50R0Z7"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-GNJD50R0Z7');
+    </script>
+
+    <!-- For all browsers -->
+    <link rel="stylesheet" href="assets/css/academicons.min.css"/>
+    <link rel="stylesheet" href="assets/css/academicons.css"/>
+
+    <style>
+      button.accordion {
+      font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+      cursor: pointer;
+      padding: 0px;
+      border: none;
+      text-align: left;
+      outline: none;
+      font-size: 100%;
+      transition: 0.3s;
+      background-color: #f8f8f8;
+      }
+      button.accordion.active, button.accordion:hover {
+      background-color: #f8f8f8;
+      }
+      button.accordion:after {
+      content: " [+] ";
+      font-size: 90%;
+      color:#777;
+      float: left;
+      margin-left: 1px;
+      }
+
+      button.accordion.active:after {
+      content: " [\2212] ";
+      }
+      div.panel {
+      padding: 0 20px;
+      margin-top: 5px;
+      display: none;
+      background-color: white;
+      font-size: 100%;
+      }
+      div.panel.show {
+      display: block !important;
+      }
+      .social-row {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>Jiaxun Song</h1>
+        <p>PhD student in Financial Economics<br>University of International Business and Economics</p>
+    <h3><a href="https://jiaxun123.github.io/Song">Home</a></h3>
+    <h3><a href="https://jiaxun123.github.io/Song/literature.html">Literature</a></h3>
+    <h3><a href="https://jiaxun123.github.io/Song/slides.html">Slides</a></h3>
+
+    <h3><a href="https://jiaxun123.github.io/Song/personal.html">Personal</a></h3>
+      <b>Social</b><br>
+        <div class="social-row">
+          <a href="mailto:songofsjx@foxmail.com" class="author-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a><br>
+          <br>
+        </div>
+        <br>
+
+    <p><b>Contact:</b><br>China School of Banking and Finance<br>University of International Business and Economics<br>10 Huixin Dong St, Beijing, Peoples R China<br>Postal Code: 100029</p>
+    <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+          </header>
+      <section>
+     
+      <h2>Research</h2>
+      <p>  I will categorize and organize the financial economics research literature that I have read  </p>
+            <hr />
+      <h3> <a id="factors" class="anchor" href="#RRpapers" aria-hidden="true"><span class="octicon octicon-link"></span></a>Working paper</h3>
+  
+      <h4> </h4>
+         <ul>
+   <li>Fama E F, French K R. Common risk factors in the returns on stocks and bonds[J]. Journal of financial economics, 1993, 33(1): 3-56.</li>
+    <li> Carhart M M. On persistence in mutual fund performance[J]. The Journal of finance, 1997, 52(1): 57-82.</li>
+    <li> Novy-Marx R. The other side of value: The gross profitability premium[J]. Journal of financial economics, 2013, 108(1): 1-28.</li>
+    <li>Fama E F, French K R. A five-factor asset pricing model[J]. Journal of financial economics, 2015, 116(1): 1-22.</li>
+    <li> Hou K, Xue C, Zhang L. Digesting anomalies: An investment approach[J]. The Review of Financial Studies, 2015, 28(3): 650-705.</li>
+      <li> Stambaugh R F, Yuan Y. Mispricing factors[J]. The review of financial studies, 2017, 30(4): 1270-1315.</li>
+     <li>Fama E F, French K R. Choosing factors[J]. Journal of financial economics, 2018, 128(2): 234-252.</li>
+      <li> Lu Z, Murray S. Bear beta[J]. Journal of Financial Economics, 2019, 131(3): 736-760.</li>
+      <li>Daniel K, Hirshleifer D, Sun L. Short-and long-horizon behavioral factors[J]. The review of financial studies, 2020, 33(4): 1673-1736.</li> 
+      <li>Chib S, Zhao L, Zhou G. Winners from winners: A tale of risk factors[J]. Management Science, 2024, 70(1): 396-414.</li> 
+         </ul>
+             <hr />
+      <h3> <a id="fundflows" class="anchor" href="#RRpapers" aria-hidden="true"><span class="octicon octicon-link"></span></a>Mutual fund investor</h3>
+  
+      <h4>  Investors chase fund past performance, yet their learning behavior may be disrupted by certain fund-specific or common market factors.</h4>
+         <ul>
+        <li>Ippolito R A. Consumer reaction to measures of poor quality: Evidence from the mutual fund industry[J]. The Journal of Law and Economics, 1992, 35(1): 45-70.</li>
+                <li>Chevalier J, Ellison G. Risk taking by mutual funds as a response to incentives[J]. Journal of political economy, 1997, 105(6): 1167-1200.</li>
+        <li>Sirri E R, Tufano P. Costly search and mutual fund flows[J]. The journal of finance, 1998, 53(5): 1589-1622.</li>
+          <li>Berk J B, Green R C. Mutual fund flows and performance in rational markets[J]. Journal of political economy, 2004, 112(6): 1269-1295. </li>
+       <li>Barber B M, Huang X, Odean T. Which factors matter to investors? Evidence from mutual fund flows[J]. The Review of Financial Studies, 2016, 29(10): 2600-2642. </li>
+       <li>Berk J B, Van Binsbergen J H. Assessing asset pricing models using revealed preference[J]. Journal of Financial Economics, 2016, 119(1): 1-23. </li>
+
+           <li>Polkovnichenko V, Wei K D, Zhao F. Cautious risk takers: Investor preferences and demand for active management[J]. The Journal of Finance, 2019, 74(2): 1025-1075.</li>
+                   <li>  Ben-David I, Li J, Rossi A, Song, Y What do mutual fund investors really care about?[J]. The Review of Financial Studies, 2022, 35(4): 1723-1774.</li>
+
+       
+         
+         </ul>
+     <hr />
+
+        <script src="javascripts/scale.fix.js"></script>
+  </body>
+</html>
+ </button>   
